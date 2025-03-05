@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Javier Sanchez</h1>
-<h3 align="center">A passionate backend developer proficient in Python. IRCA Certified Auditor/Lead Auditor.</h3>
+<h3 align="center">
+<strong>I Deliver</strong> <img src="https://img.icons8.com/fluency/24/000000/code.png"/> software that scales 
+<img src="https://img.icons8.com/color/24/000000/gear.png"/> processes that excel 
+<img src="https://img.icons8.com/dusk/24/000000/statistics.png"/> KPIs that propel  
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jstoledano&label=Profile%20views&color=0e75b6&style=flat" alt="jstoledano" /> </p>
 
