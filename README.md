@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Sanchez</h1>
 <h3 align="center">
+  ISO 9001 Lead Auditor & Full-Stack Developer  <br />
+🛠️ Python/Django | C#/Blazor | Java/Spring | Go 🚀 <br />
 <strong>I Deliver</strong> <img src="https://img.icons8.com/fluency/24/000000/code.png"/> software that scales 
 <img src="https://img.icons8.com/color/24/000000/gear.png"/> processes that excel 
 <img src="https://img.icons8.com/dusk/24/000000/statistics.png"/> KPIs that propel  
