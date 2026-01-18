@@ -8,10 +8,10 @@ Llevo más de 14 años diseñando y operando software que no puede permitirse fa
 
 ### Lo que hago
 
-* **Sistemas de larga duración:** He pasado 14 años evolucionando *Cerebro*, un monolito modular que centraliza la operación y el cumplimiento normativo sin interrumpir el servicio.
+* **Sistemas de larga duración:** He pasado 14 años haciendo evolucionar *Cerebro*, un monolito modular que centraliza la operación y el cumplimiento normativo sin interrumpir el servicio.
 * **Modernización real:** Traduzco reglas de negocio complejas y normativas ISO 9001 en código de backend que de verdad se puede auditar y usar.
 * **Operaciones y fiabilidad:** Gestiono entornos de producción en Linux y AWS con un enfoque obsesivo en la disponibilidad y el bajo costo operativo.
-* **Ingeniería de datos:** Construyo pipelines de ETL para procesar millones de registros operativos y convertirlos en métricas útiles para la toma de decisiones.
+* **Ingeniería de datos:** Construyo pipelines de ETL para procesar millones de datos en miles de registros operativos y convertirlos en métricas útiles para la toma de decisiones.
 
 ---
 
@@ -33,7 +33,7 @@ Llevo más de 14 años diseñando y operando software que no puede permitirse fa
 
 ### Trayectoria
 
-He pasado la mayor parte de mi carrera en el **INE México**, liderando la evolución técnica de sus sistemas internos desde arquitecturas legadas hacia plataformas modernas. Antes de ser ingeniero de software a tiempo completo, fui Auditor Líder ISO 9001 (IRCA), lo que me dio una perspectiva única sobre cómo transformar la burocracia en código útil.
+He pasado la mayor parte de mi carrera en el ** *** **, liderando la evolución técnica de sus sistemas internos desde arquitecturas legadas hacia plataformas modernas. Antes de ser ingeniero de software a tiempo completo, fui Auditor Líder ISO 9001 (IRCA), lo que me dio una perspectiva única sobre cómo transformar la burocracia en código útil.
 
 ---
 
