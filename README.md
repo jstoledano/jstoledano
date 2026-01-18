@@ -1,54 +1,48 @@
 # Javier Sanchez Toledano
 
-**Senior Backend / Systems Engineer** *Especializado en la evolución y modernización de sistemas de producción de larga duración.*
+**Senior Backend / Systems Engineer.** Me especializo en sistemas que aguantan el paso del tiempo.
 
-Diseño, construyo y opero software de backend que debe permanecer confiable a lo largo de décadas, no solo temporadas. Mi trabajo se sitúa en la intersección de la **Arquitectura de Backend**, la **Modernización de Sistemas** y la **Gobernanza Digital**, particularmente en entornos regulados donde el fallo y la deuda técnica tienen consecuencias reales.
-
-Priorizo los **sistemas moldeados por la realidad** antes que aquellos impuestos sobre ella. Creo que un sistema solo tiene éxito si puede operarse con una consistencia sin fricciones y mantenerse con un bajo costo operativo.
+Llevo más de 14 años diseñando y operando software que no puede permitirse fallar. Mi trabajo se centra en modernizar sistemas críticos y asegurar que sigan funcionando bajo restricciones de presupuesto y regulaciones estrictas. No me interesan las modas tecnológicas; prefiero la claridad, la estabilidad y los sistemas que son fáciles de mantener años después de haberlos escrito.
 
 ---
 
-### En qué trabajo
+### Lo que hago
 
-* **Sistemas de Backend de Larga Duración:** Más de 14 años evolucionando y refactorizando plataformas core (ej. *Cerebro*) mientras se mantiene un servicio de producción ininterrumpido.
-* **Modernización Dirigida por el Dominio:** Traducción de procesos organizacionales complejos y requisitos regulatorios (ISO 9001) en lógica de backend estable y auditable.
-* **Fiabilidad y Operaciones de Producción:** Operación de sistemas críticos en Linux y AWS con un enfoque en alta disponibilidad y eficiencia extrema de costos.
-* **Evidencia Basada en Datos:** Construcción de pipelines ETL de alto rendimiento que transforman registros operativos crudos en métricas confiables para la toma de decisiones directivas.
+* **Sistemas de larga duración:** He pasado 14 años evolucionando *Cerebro*, un monolito modular que centraliza la operación y el cumplimiento normativo sin interrumpir el servicio.
+* **Modernización real:** Traduzco reglas de negocio complejas y normativas ISO 9001 en código de backend que de verdad se puede auditar y usar.
+* **Operaciones y fiabilidad:** Gestiono entornos de producción en Linux y AWS con un enfoque obsesivo en la disponibilidad y el bajo costo operativo.
+* **Ingeniería de datos:** Construyo pipelines de ETL para procesar millones de registros operativos y convertirlos en métricas útiles para la toma de decisiones.
 
 ---
 
 ### Foco Técnico
 
-* **Lenguajes y Frameworks:** Python, Django, SQL, Bash.
-* **Bases de Datos:** PostgreSQL (Optimización de esquemas, integridad de datos, normalización).
-* **Sistemas e Infraestructura:** Administración de Linux (Debian/Ubuntu), Docker, Nginx, Soporte a Producción.
-* **Cloud (Capa Pragmática):** AWS (S3, CloudFront, Route53, ACM) utilizado como amplificador de infraestructura para lograr longevidad y estabilidad.
-* **Dominios:** Domain-Driven Design (DDD), Modernización de Sistemas, Cumplimiento por Diseño (Compliance-by-Design), ISO 9001:2015.
+* **Stack:** Python y Django son mi base. Escribo SQL a mano cuando la integridad de los datos o el rendimiento lo requieren.
+* **Infraestructura:** Linux (Debian/Ubuntu), Docker y Nginx. Uso la nube (AWS) como una herramienta para ganar estabilidad, no como una religión.
+* **Arquitectura:** Diseño dirigido por el dominio (DDD), monolitos modulares y sistemas diseñados para durar.
 
 ---
 
-### Filosofía Profesional
+### Mi Filosofía
 
-* **Claridad sobre Novedad:** Favorezco arquitecturas conservadoras y mantenibles sobre diseños impulsados por tendencias.
-* **El Costo como Restricción:** El bajo costo operativo es un requisito de diseño primario, no una ocurrencia tardía.
-* **Gobernanza Determinista:** El cumplimiento debe ser un subproducto natural del comportamiento del sistema, no una tarea manual.
+* **Claridad sobre novedad:** Si un sistema no se entiende, no es una solución, es una deuda.
+* **El costo como restricción:** Un sistema exitoso debe ser barato de operar. El bajo costo no es un detalle, es un requisito de diseño.
+* **Cumplimiento determinista:** El software debe forzar que las cosas se hagan bien, no depender de que alguien lea un manual de procesos.
 
 ---
 
 ### Trayectoria
 
-* **14+ años en el INE México:** Liderando la evolución técnica de sistemas de backend internos, desde estructuras legadas hacia monolitos modulares modernos.
-* **Ingeniería y Cumplimiento:** Ex Auditor Líder ISO 9001 (IRCA) que transitó hacia el desarrollo de software para resolver la fragmentación de los flujos de trabajo regulados.
-* **Educación:** Ingeniería en Sistemas Computacionales (Especialidad en Big Data) por la UVEG.
+He pasado la mayor parte de mi carrera en el **INE México**, liderando la evolución técnica de sus sistemas internos desde arquitecturas legadas hacia plataformas modernas. Antes de ser ingeniero de software a tiempo completo, fui Auditor Líder ISO 9001 (IRCA), lo que me dio una perspectiva única sobre cómo transformar la burocracia en código útil.
 
 ---
 
-### En GitHub
+### En mi GitHub
 
-Aquí encontrarás:
-* Proyectos de backend enfocados en la **durabilidad arquitectónica** y **límites de dominio claros**.
-* Herramientas para **procesamiento de datos** y **flujos ETL** derivados de necesidades operativas reales.
-* Enfoques de diseño de sistemas donde la documentación y la estabilidad son lo primero.
+No esperes encontrar la última tendencia de JS aquí. Encontrarás:
+* Proyectos de backend con límites de dominio bien definidos.
+* Herramientas de procesamiento de datos nacidas de necesidades reales.
+* Código honesto, diseñado para ser leído por humanos y ejecutado por años.
 
 📍 Tlaxcala, México · 🌍 Remoto (CST)  
 🔗 LinkedIn: [linkedin.com/in/javier-sanchez-toledano](https://www.linkedin.com/in/javier-sanchez-toledano)
