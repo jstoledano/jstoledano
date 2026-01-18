@@ -1,55 +1,54 @@
 # Javier Sanchez Toledano
 
-Senior Backend Engineer focused on long-lived systems.
+**Senior Backend / Systems Engineer** *Especializado en la evolución y modernización de sistemas de producción de larga duración.*
 
-I design, build, and operate backend software that has to remain reliable over many years, often in regulated and resource-constrained environments. My work sits at the intersection of backend engineering, systems reliability, and real-world process modeling.
+Diseño, construyo y opero software de backend que debe permanecer confiable a lo largo de décadas, no solo temporadas. Mi trabajo se sitúa en la intersección de la **Arquitectura de Backend**, la **Modernización de Sistemas** y la **Gobernanza Digital**, particularmente en entornos regulados donde el fallo y la deuda técnica tienen consecuencias reales.
 
-I care about clarity over novelty, explicit models over hidden magic, and software that people actually use without friction.
-
----
-
-### What I work on
-
-- Backend systems that act as a **single source of truth**
-- Process-driven software (workflows, roles, traceability, auditability)
-- Long-running production systems with low operational cost
-- Conservative, maintainable architectures over trend-driven designs
-
-Most of my professional work has been in environments where systems cannot be rewritten every two years and failure has real consequences.
+Priorizo los **sistemas moldeados por la realidad** antes que aquellos impuestos sobre ella. Creo que un sistema solo tiene éxito si puede operarse con una consistencia sin fricciones y mantenerse con un bajo costo operativo.
 
 ---
 
-### Technical focus
+### En qué trabajo
 
-- **Languages & Frameworks:** Python, Django  
-- **Databases:** PostgreSQL, SQL (data validation, reporting, traceability)  
-- **Systems:** Linux, production operations, system reliability  
-- **Infrastructure:** Docker, Nginx  
-- **Architecture:** Process modeling, modular monoliths, long-lived system design
-
-I deliberately avoid over-claiming experience in areas I haven’t operated at scale in production.
+* **Sistemas de Backend de Larga Duración:** Más de 14 años evolucionando y refactorizando plataformas core (ej. *Cerebro*) mientras se mantiene un servicio de producción ininterrumpido.
+* **Modernización Dirigida por el Dominio:** Traducción de procesos organizacionales complejos y requisitos regulatorios (ISO 9001) en lógica de backend estable y auditable.
+* **Fiabilidad y Operaciones de Producción:** Operación de sistemas críticos en Linux y AWS con un enfoque en alta disponibilidad y eficiencia extrema de costos.
+* **Evidencia Basada en Datos:** Construcción de pipelines ETL de alto rendimiento que transforman registros operativos crudos en métricas confiables para la toma de decisiones directivas.
 
 ---
 
-### Background
+### Foco Técnico
 
-- Senior Backend / Systems Engineer in government-regulated environments  
-- Experience supporting ISO 9001 quality management systems  
-- Former ISO 9001 Lead Auditor (IRCA)  
-- Comfortable working close to real users, auditors, and operational staff
-
----
-
-### On GitHub
-
-Here you’ll find:
-- Backend projects focused on clarity and maintainability  
-- Experiments and tools extracted from real operational needs  
-- Documentation-first approaches to system design  
-
-Not everything here is polished or trendy. Most of it is honest.
+* **Lenguajes y Frameworks:** Python, Django, SQL, Bash.
+* **Bases de Datos:** PostgreSQL (Optimización de esquemas, integridad de datos, normalización).
+* **Sistemas e Infraestructura:** Administración de Linux (Debian/Ubuntu), Docker, Nginx, Soporte a Producción.
+* **Cloud (Capa Pragmática):** AWS (S3, CloudFront, Route53, ACM) utilizado como amplificador de infraestructura para lograr longevidad y estabilidad.
+* **Dominios:** Domain-Driven Design (DDD), Modernización de Sistemas, Cumplimiento por Diseño (Compliance-by-Design), ISO 9001:2015.
 
 ---
 
-📍 Tlaxcala, Mexico · 🌍 Remote  
-🔗 LinkedIn: https://www.linkedin.com/in/javier-sanchez-toledano
+### Filosofía Profesional
+
+* **Claridad sobre Novedad:** Favorezco arquitecturas conservadoras y mantenibles sobre diseños impulsados por tendencias.
+* **El Costo como Restricción:** El bajo costo operativo es un requisito de diseño primario, no una ocurrencia tardía.
+* **Gobernanza Determinista:** El cumplimiento debe ser un subproducto natural del comportamiento del sistema, no una tarea manual.
+
+---
+
+### Trayectoria
+
+* **14+ años en el INE México:** Liderando la evolución técnica de sistemas de backend internos, desde estructuras legadas hacia monolitos modulares modernos.
+* **Ingeniería y Cumplimiento:** Ex Auditor Líder ISO 9001 (IRCA) que transitó hacia el desarrollo de software para resolver la fragmentación de los flujos de trabajo regulados.
+* **Educación:** Ingeniería en Sistemas Computacionales (Especialidad en Big Data) por la UVEG.
+
+---
+
+### En GitHub
+
+Aquí encontrarás:
+* Proyectos de backend enfocados en la **durabilidad arquitectónica** y **límites de dominio claros**.
+* Herramientas para **procesamiento de datos** y **flujos ETL** derivados de necesidades operativas reales.
+* Enfoques de diseño de sistemas donde la documentación y la estabilidad son lo primero.
+
+📍 Tlaxcala, México · 🌍 Remoto (CST)  
+🔗 LinkedIn: [linkedin.com/in/javier-sanchez-toledano](https://www.linkedin.com/in/javier-sanchez-toledano)
